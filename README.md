@@ -1,3 +1,4 @@
+![Explorer Screenshot](https://i.imgur.com/J3DXJGT.png?1)
 # dev-environment-lab
 
 ## OS
